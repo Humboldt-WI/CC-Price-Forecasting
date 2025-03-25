@@ -1,6 +1,6 @@
-# Deep Learning and NLP in Cryptocurrency Forecasting: Integrating Financial, Blockchain, and Social Media Data
+This repository complements our paper *Deep Learning and NLP in Cryptocurrency Forecasting: Integrating Financial, Blockchain, and Social Media Data* published in the International Journal of Forecasting. Please find the full paper at: (https://doi.org/10.1016/j.ijforecast.2025.02.007)
 
-This repository encompasses the code for the acquisition and processing of the data, exploratory data analysis, model training and evaluation as well as related utilities and documentation for the forecasting of cryptocurrency prices using various deep learning and natural language processing techniques.
+The repository  encompasses the code for the acquisition and processing of the data, exploratory data analysis, model training and evaluation as well as related utilities and documentation for the forecasting of cryptocurrency prices using various deep learning and natural language processing techniques.
 
 ## Structure
 
